@@ -44,6 +44,18 @@ Developed as an academic engineering project at RV Institute of Technology and M
   - Supplemental incandescent/LED bulb.
   - External DC power supply for inductive actuator loads.
 
+---
+
+## Circuit Diagram & Electrical Wiring
+
+Below is the system electrical wiring diagram interfacing the Arduino Uno microcontroller with the DHT11 temperature/humidity sensor, analog soil moisture probe, LDR sensor, 16x2 HD44780 LCD display, and actuator relays:
+
+<p align="center">
+  <img src="circuit_diagram.png" alt="Arduino Greenhouse Monitoring Circuit Diagram" width="800">
+</p>
+
+---
+
 ### Pin Allocations
 
 | Subsystem | Arduino Pin | Type | Function |
